@@ -3,4 +3,4 @@
 ```markdown
 Instalação
 
-- Necessário instalar o NodeJS para executar a instalação da API
+- Necessário instalar o NodeJS para executar a instalação da API com yarn
